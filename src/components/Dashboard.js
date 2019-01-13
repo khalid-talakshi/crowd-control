@@ -49,8 +49,10 @@ export default class Dashboard extends React.Component {
     render() {
         return (
         <div className="container">
-            <h1>Welcome to Crowd Control</h1>
-            <h2>Dashboard</h2>
+            <div className="header">
+                <h1>Welcome to Crowd Control</h1>
+                <h2>Dashboard</h2>
+            </div>
             <ListOfQueues queues={this.state.queues} callPeople={this.callPeople} deleteQueue={this.deleteQueue} />
             <CreateQueue addLine={this.addLine}/>
             <LineupCallNum updateNumPeopleToCall={this.updateNumPeopleToCall} />

@@ -1,5 +1,9 @@
 .container {
     max-width: 60rem;
     margin: 0 auto;
-    padding: 0 $m-size;
+    padding: 10rem $m-size;
+    background-color: $flat-blue;
+    color: white;
+    border:  3px solid $off-white;
+    margin-top: 5rem;
 }

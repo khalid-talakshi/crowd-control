@@ -19,7 +19,7 @@ export default class lineupCallNum extends React.Component {
                 <form onSubmit={this.handleUpdateNum}>
                     <div className="numBox">
                         <input type="number" name="numPeople" />
-                        <button>Call People</button>
+                        <button className="button">Call People</button>
                     </div>
                 </form>
             </div>

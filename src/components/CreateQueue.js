@@ -18,14 +18,16 @@ export default class CreateEvent extends React.Component {
 
     render() {
         return(
-            <div>
+                <div className="numBox">
                 <h2>Create Line</h2>
                 {this.state.error && <p className="add-option-error">{this.state.error}</p>}
                 <form onSubmit={this.handleAddLine}>
+                    <div className="numBox">
                     <input name="name" type="text" />
-                    <button>Add Line</button>
+                    <button className="button">Add Line</button>
+                    </div>
                 </form>
-            </div>
+                </div>
         )
     }
 }
