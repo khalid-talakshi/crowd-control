@@ -1,6 +1,6 @@
 # Crowd Control 
 ## Get in line without moving a muscle
-By: [Shivam Pandey](https://github.com/shivampandey1), [Ali Zohair](https://github.com/AliZohairWat), [Hossein Mohebbi](https://github.com/mhmohebbi) and [Khalid Talakshi]((https://github.com/khalid-talakshi)
+By: [Shivam Pandey](https://github.com/shivampandey1), [Ali Zohair](https://github.com/AliZohairWat), [Hossein Mohebbi](https://github.com/mhmohebbi) and [Khalid Talakshi](https://github.com/khalid-talakshi)
 
 ### Inspiration
 StarterHacks 2019 was the main source of inspiration. We were waiting in line for pizza with all our stuff, and that was really irritating. This gave us the idea to build Crowd Control. 
