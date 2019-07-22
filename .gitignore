@@ -59,5 +59,10 @@ typings/
 
 # next.js build output
 .next
+
 .vscode
 api/__pycache__
+.vscode/settings.json
+api/__pycache__/sql_db.cpython-37.pyc
+api/__pycache__/temp_file.cpython-37.pyc
+api/__pycache__/twilio_handler.cpython-37.pyc
